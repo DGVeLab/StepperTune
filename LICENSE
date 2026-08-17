@@ -1,0 +1,78 @@
+DGVeLab Maker License v1.0
+
+Copyright (c) 2026 Ernesto – DGVeLab
+
+This project, including software, source code, documentation, generated examples, graphics, and related materials (collectively referred to as "the Project"), is released under the following terms.
+
+PERMITTED USE
+
+The Project may be used for:
+
+• Personal use
+• Educational purposes
+• Research and experimentation
+• Non-commercial maker projects
+
+You are allowed to:
+
+• Study and learn from the Project
+• Use the software for personal and non-commercial purposes
+• Modify the source code
+• Share the Project with proper attribution
+
+ATTRIBUTION
+
+When sharing or publishing the Project or modified versions, proper credit must be given to:
+
+DGVeLab – Ernesto
+
+NON-COMMERCIAL USE
+
+Commercial use of this Project is NOT permitted without explicit written permission from the author.
+
+Commercial use includes, but is not limited to:
+
+• Selling the software or modified versions
+• Selling access to the software
+• Bundling the software as part of a commercial product or service
+• Using the Project as part of a commercial product
+• Redistributing modified versions for commercial gain
+
+If you wish to use this Project commercially, please contact the author for licensing.
+
+MODIFICATIONS
+
+Modified versions of the Project must:
+
+• Clearly indicate that modifications were made
+• Maintain attribution to the original author
+• Not imply endorsement by DGVeLab or the original author
+
+THIRD-PARTY NAMES AND MATERIALS
+
+Bambu Lab, Bambu Studio, and referenced printer model names are trademarks or product names belonging to their respective owners.
+
+StepperTune is an independent project and is not affiliated with, sponsored by, or endorsed by Bambu Lab.
+
+Third-party screenshots, documentation excerpts, or reference materials remain the property of their respective owners and are not relicensed by this license.
+
+DISCLAIMER
+
+This Project is provided "as is", without warranty of any kind.
+
+The software generates G-code commands that may operate printer motors and modify printer sound behavior. The user is solely responsible for:
+
+• Selecting the correct supported printer model
+• Reviewing generated G-code
+• Inserting code only into the appropriate sound section
+• Preserving all other Machine G-code
+• Testing changes safely
+• Verifying compatibility after firmware or software updates
+
+The author shall not be held liable for printer damage, failed prints, data loss, malfunctions, or any other direct or indirect damages resulting from use, misuse, manual modification, unsupported hardware, or changes in third-party firmware or software.
+
+CONTACT
+
+For commercial licensing, collaborations, or questions:
+
+dgvelab@gmail.com
