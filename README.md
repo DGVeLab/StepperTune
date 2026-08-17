@@ -1,4 +1,4 @@
-# StepperTune
+![StepperTune](images/skin.png)
 
 StepperTune is a desktop application for creating melodies and converting them into G-code jingles for supported Bambu Lab printers.
 
